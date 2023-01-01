@@ -22,7 +22,11 @@ Step 5. Execute the strategy and calculate the Profit & Loss (PnL).
 
 
 
-Looking at the cumulative PnL over the years had the strategy been implemented, this strategy appears to produce consistent profit (Chart 2), not bad! ![1672371595702-_1_](https://user-images.githubusercontent.com/121606452/210162558-de5a15da-072b-4e10-9cf8-844f3d13e4ad.jpeg)
+Looking at the cumulative PnL over the years had the strategy been implemented, this strategy appears to produce consistent profit (Chart 2), not bad! 
+
+
+
+![1672371595702-_1_](https://user-images.githubusercontent.com/121606452/210162558-de5a15da-072b-4e10-9cf8-844f3d13e4ad.jpeg)
 
 
 
