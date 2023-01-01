@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 # df = dataframe. Load the data, index_col indicates what column of the csv to use as the indexes (row labels) of the dataframe.
 # If index_col is 0, it means that "1" will be the index of the first column, "2" will be the index for the second column..
-df = pd.read_csv('dxy.csv', index_col=0)
+df = pd.read_csv('DXY.csv', index_col=0)
 
 # To check what are the columns name in the data
 print(df.columns.tolist())
